@@ -7,7 +7,7 @@ Computer Science student.
 
 <div id="webaddress">
 <a href="ezekialncurran@gmail.com">ezekialncurran@gmail.com</a>
-| <a href="www.linkedin.com/in/ezekialcurran117">linkedin</a>
+| <a href="https://www.linkedin.com/in/ezekialcurran117/">linkedin</a>
 </div>
 
 
